@@ -1,0 +1,3 @@
+to jest tekst z pliku
+i to jest tekst
+i to...
