@@ -11,7 +11,7 @@ int main()
     plik.open("wynik.txt", ios::app);
     while (1)
     {
-        cout << ": ";
+cout << ": ";
         getline(cin, s);
         if (s.length() == 0)
             break;
